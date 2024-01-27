@@ -1,7 +1,7 @@
 
 # **WEB APPLICATION PERFORMING AUTOMATED MAPREDUCE**
 ## CSE 446/598 Software Integration and Engineering
-> Spring 2023
+## Spring 2023
 
 ## Description
 > This project...
