@@ -1,0 +1,125 @@
+AWS Public Sector Blog
+Students across Arizona participate in a statewide robotics hackathon
+by Audrey Bierly | on 21 NOV 2019 | in AWS Educate, AWS RoboMaker, Education, Higher Education, 
+Public Sector, Robotics | Permalink |  Comments |  Share
+Photo courtesy Grace Lieberman, The State Press
+Photo courtesy Grace Lieberman, The State Press
+
+In collaboration with Amazon Web Services (AWS) and NVIDIA, Arizona State University (ASU) 
+hosted its first-ever robotics hackathon. At the Arizona Robo Hackathon, 64 undergraduate and 
+graduate students across seven institutions came together to compete in an Arizona statewide 
+competition hosted on AWS.
+
+Inside the Hackathon
+Students formed 15 teams and spent the weekend competing in four missions:
+
+Assemble a SparkFun JetBot AI Kit powered by NVIDIA Jetson Nano
+Bring the NVIDIA JetBot to life and make it spin on its own
+Have the NVIDIA JetBot autonomously navigate a LEGO track
+Design, develop, and deploy new capabilities to the NVIDIA JetBot using the AWS Cloud
+By the end of the hackathon, students successfully applied their knowledge of computer science, 
+engineering, and programming skills in robotics and artificial intelligence (AI) application 
+development. The first-place team, Light Speed, showcased an NVIDIA JetBot that navigated a 
+LEGO track in under 10 seconds and could recognize and locate a picture of Jeff Bezos. 
+Their solution used technologies like Amazon Simple Storage Service (Amazon S3), an 
+Amazon SageMaker Jupyter notebook powered by Amazon Elastic Compute Cloud (Amazon EC2), 
+Amazon Simple Notification Service (Amazon SNS), and AWS RoboMaker. Light Speed team members 
+Christopher Harsh, Riley Tallman, Shabab Siddique, Tyriq Hayes, and Xina Tang won a $5,000 
+prize. The second-place team received a prize of $2,500 and the third-place team received a 
+prize of $1,000.
+
+“It’s amazing to see what students accomplished in a single weekend,” said John Rome, 
+Deputy CIO at Arizona State University. “In addition to robot assembly, students leveraged 
+the AWS Cloud to give their robots new capabilities, like identifying objects, spelling words, 
+and even singing classic rock songs. It was great that the AWS team and NVIDIA team supported 
+students throughout the weekend – including nights with no sleep – providing expertise through 
+technical training sessions, encouragement, and mentorship.”
+
+AWS and NVIDIA sponsored the event, donating the time of several solutions architects, 
+engineers, and program managers. These stakeholders led pre-hackathon training sessions 
+on AWS Cloud basics, Python, Amazon SageMaker, Robot Operating System (ROS), AWS RoboMaker, 
+and NVIDIA JetBot assembly. Students also signed up for AWS Educate, Amazon’s global 
+initiative that provides students and educators with the resources needed to accelerate 
+cloud-related learning.
+
+“We worked hard throughout the hackathon, but it was worth it. We enjoyed applying 
+machine learning on AWS to the NVIDIA JetBot and it was rewarding to show it off 
+moving intelligently in real space,” said Christopher Harsh, a student at ASU and 
+member of Light Speed.
+
+Interested in hosting a robotics hackathon at your institution? 
+Contact aws-robomaker-academics@amazon.com.
+https://aws.amazon.com/blogs/publicsector/students-across-arizona-participate-in-a-statewide-robotics-hackathon/
+
+Arizona State University students took on challenges in robotics, machine learning and 
+artificial intelligence alongside their peers from universities and community colleges 
+across the state at the first-ever Robo Hackathon on ASU’s Tempe campus.
+Undergraduate students in engineering, computer science and related majors were challenged 
+with developing an autonomous robotic system that could race through a track and recognize 
+their school’s mascot. Undergraduate students from all over Arizona applied their skills 
+in robotics, machine learning and artificial intelligence at the first Robo Hackathon 
+hosted by ASU. The Ira A. Fulton Schools of Engineering, ASU University Technology Office 
+and sponsors NVIDIA and Amazon Web Services challenged students to build robots that could 
+recognize their school’s mascot using open-source SparkFun JetBot AI Kits powered by 
+NVIDIA’s Jetson Nano Developer Kit and Amazon Web Services tools such as AWS RoboMaker 
+and SageMaker. Photo by Erika Gronek/ASUDownload Full Image
+Each team, which included three to five undergraduate students and a maximum of one 
+graduate student, included members representing multiple disciplines, just as the field 
+of artificial intelligence requires in industry and research teams. They competed for more 
+than $8,000 in prizes — and bragging rights as the first Robo Hackathon winner. 
+Robotics, machine learning and artificial intelligence are growing in importance as Arizona’s 
+industry and academic institutions position the region as a smart technology hub. The ASU 
+University Technology Office hosts hackathons each fall and spring to empower students to 
+apply their skills and learn new ones to solve real-world problems. ASU UTO saw a statewide 
+robotics hackathon as a great opportunity.
+"The Robo Hackathon — and all ASU hackathons we lead — are a way to actively engage students, 
+our next generation of leaders and changemakers, with opportunities to learn and apply the 
+kinds of skills that are vital for the growth of Arizona and beyond,” said John Rome, deputy 
+chief information officer for ASU UTO and lead organizer of the Robo Hackathon. “The students 
+who participated are truly a snapshot of the future and it gives us great pride and hope. 
+It was an honor to provide them an opportunity to experiment with the latest cloud solutions."
+To put on Arizona's first Robo Hackathon, UTO leveraged strategic partnerships with the Ira A. 
+Fulton Schools of Engineering at ASU and the university’s work in the Smart City Cloud Innovation 
+Center, which includes partners such as Amazon Web Services, to organize an event that engages
+the next generation of changemakers to use their skills to impact Arizona’s technology future.
+Sponsors NVIDIA and AWS provided the participants access to some of the latest robotics and AI 
+programming technology. Students used the open-source SparkFun JetBot AI Kit powered by NVIDIA’s 
+Jetson Nano Developer Kit as a launchpad to create their AI projects, paired with AWS tools such 
+as AWS RoboMaker and SageMaker.
+Yinong Chen, a principal lecturer of computer science and engineering in the Fulton Schools, 
+helped design the competition missions that helped students progressively increase their 
+robots’ capabilities to become mascot-identifying racing bots. He says this was a great 
+opportunity for students to apply their classroom knowledge.
+“The Robo Hackathon helped Arizona students combine the knowledge they learned in university 
+classes with the cutting-edge technologies and platforms provided by AWS, Nvidia and SparkFun, 
+including robotics, internet of things and machine learning skills,” Chen said.
+Over three days, the students learned how to use AWS tools, assembled their SparkFun JetBot 
+kits and machine learning concepts to detect and navigate a path and to classify images. 
+Their missions included basic movements, autonomous navigation around obstacles and recognizing 
+mascots. The participating teams were scored on their speed and completion of the missions.
+The students also had to think quickly on their feet when an unexpected speed bump caused 
+the image reading capabilities of the camera to not work as planned. 
+“Finding existing problems in the system is a part of a hackathon event, and the students 
+did it,” Chen said. “The organizers had to slightly modify the missions to get around the problem, 
+which allowed the students to create a new solution based on the new requirements.”
+He says he was impressed by the students’ ability to dynamically adjust to the new challenge 
+by utilizing their understanding of fundamental principles of machine learning and their 
+programming skills. 
+Chen’s favorite mission was a speed race in which students’ robots had to capture and 
+recognize the track images using machine learning.
+“The robot must perform all the difficult tasks in racing conditions,” Chen said. 
+“It is very hard to achieve what the students achieved (in the short time frame of) the 
+hackathon.”
+Overall, Chen thought it was an excellent event and a valuable experience for all the 
+students involved.
+“The event was well organized and students learned a lot from the hackathon, whether or 
+not they won the cash prizes,” he said.
+Team Light Speed from ASU took home first place and $5,000, Team Robin Noodles from ASU 
+was awarded second place and $2,500, and Team CATS from the University of Arizona earned 
+third place and $1,000.
+UTO will continue to host hackathons at ASU that apply hands-on skills in high demand in 
+the region. With the popularity of the first Robo Hackathon, UTO will likely hold more 
+opportunities to apply robotics, machine learning and artificial intelligence skills 
+in future events.
+https://aws.amazon.com/blogs/publicsector/students-across-arizona-participate-in-a-statewide-robotics-hackathon/
+https://news.asu.edu/20191118-arizona-robo-hackathon-puts-students-technical-skills-test
